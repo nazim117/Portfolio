@@ -1,0 +1,8 @@
+Black
+#050C2B
+
+Gold
+#D6B062
+
+Silver 
+#7A7C84
